@@ -1,0 +1,25 @@
+{
+  "events":
+  [
+    {
+      "type": "COMMON",
+      "dayOfWeekNumber": 1,
+      "name": "Dirty Feet Monday"
+    },
+    {
+      "type": "COMMON",
+      "dayOfWeekNumber": 6,
+      "name": "Sweaturday"
+    },
+    {
+      "type": "COMMON",
+      "dayOfWeekNumber": 7,
+      "name": "Pantyhose-Worship Sunday"
+    }
+  ],
+  "default-event":
+  {
+    "type": "DEFAULT"
+    "name": "Grind Day!"
+  }
+}
