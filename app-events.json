@@ -1,25 +1,28 @@
 {
   "events":
-  [
-    {
-      "type": "COMMON",
-      "dayOfWeekNumber": 1,
-      "name": "Dirty Feet Monday"
-    },
-    {
-      "type": "COMMON",
-      "dayOfWeekNumber": 6,
-      "name": "Sweaturday"
-    },
-    {
-      "type": "COMMON",
-      "dayOfWeekNumber": 7,
-      "name": "Pantyhose-Worship Sunday"
-    }
-  ],
+  {
+    "weekly": [
+      {
+        "dayOfWeekNumber": 1,
+        "name": "Dirty Feet Monday",
+        "bannerUrl": "img/goddess-banners/dirty-banner-light.jpg"
+      },
+      {
+        "dayOfWeekNumber": 6,
+        "name": "Sweaturday",
+        "bannerUrl": "img/goddess-banners/sweaturday-banner-light.jpg"
+      },
+      {
+        "dayOfWeekNumber": 7,
+        "name": "Pantyhose-Worship Sunday",
+        "bannerUrl": "img/goddess-banners/pantyhose-banner-light.jpg"
+      }  
+    ]
+  },
   "default-event":
   {
     "type": "DEFAULT",
-    "name": "Grind Day!"
+    "name": "Grind Day!",
+    "bannerUrl": "img/goddess-banners/sweaturday-banner-light.jpg"
   }
 }
