@@ -19,7 +19,7 @@
       }  
     ]
   },
-  "default-event":
+  "defaultEvent":
   {
     "type": "DEFAULT",
     "name": "Grind Day!",
