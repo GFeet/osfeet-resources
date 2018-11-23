@@ -1,0 +1,26 @@
+[
+    {
+        "date": "29 Sep 2018 17:21:00 GMT+2",
+        "title": "Updates",
+        "content": "Adds minor changes and fixes.<br>- Your selected taskbar color stays selected after re-opening System settings.<br>- System settings app redesigned.<br>- Improved window design and handling.",
+        "footer": "minor updates"
+    },
+    {
+        "date": "29 Sep 2018 12:57:00 GMT+2",
+        "title": "Status update",
+        "content": "We've been in the prototype phase for about two years. In that time, I've tried a few things and now I think I have an idea about the direction this project should head in.<br><br> The ultimate goal is to provide an environment that would be adjustable and extensible. This ultimately leads to the modding implementation. After the main set of features is at least somewhat polished, modding will be implemented, after which, it's in the hands of the community to dictate the direction of development.",
+        "footer": "status update"
+    },
+    {
+        "date": "29 Sep 2018 12:23:00 GMT+2",
+        "title": "Homepage redesign",
+        "content": "Redesigned the whole homepage look and feel to fit the game's themes.",
+        "footer": "major update"
+    },
+    {
+        "date": "29 Sep 2018 12:23:00 GMT+2",
+        "title": "Add Changelog",
+        "content": "This update added a live changelog feed to the homepage.",
+        "footer": "minor update"
+    }
+]
